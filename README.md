@@ -17,7 +17,7 @@
 
 - [01_Guess_Number](01_Guess_Number) — первая игра «Угадай число» (базовая логика).
 - [02_Guess_Number_v2](02_Guess_Number_v2) — улучшенная версия игры (подсказки, счётчик попыток).
-
+- [03_Password_Generator](03_Password_Generator) — генератор паролей на модуле `secrets`.
 ## 📚 Базовые упражнения ([папка basics](basics)):
 
 - [`01_hello.py`](basics/01_hello.py) — вывод текста.
